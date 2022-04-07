@@ -1,0 +1,21 @@
+21/6415
+
+MT Druitt Hospital
+
+Cisco Touch 10:
+IP: 
+MAC:4c5d3cad0337
+S/N: F0C2520N9QN
+Room Port:
+
+Cisco Webex TTC7-23 Codec:
+IP: 10.208.69.41
+MAC: 4c5d3caa7eed
+S/N: F0C2524NULH
+Room Port:90
+
+NEC 65" Display
+IP: 10.208.69.124
+MAC: d492340653d6
+S/N: 08205116NB
+Rom Port: 91
